@@ -7,7 +7,7 @@ Kelas: B 2026
 
 Soal: Ganjil
 
-
+izin bang untuk penjelasan variable nya ada di codingan, dan izin untuk menambahkan penjelasan outputnya
 
 <img width="785" height="206" alt="Screenshot 2026-09-22 185218" src="https://github.com/user-attachments/assets/72eb30c1-11ff-48a8-b576-a494a6c6373c" />
 
